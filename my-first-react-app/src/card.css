@@ -1,0 +1,17 @@
+.cardContainer{
+    border: 5px solid black;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+.profilePic{
+    width: 80px;
+    border: 4px solid yellow;
+    border-radius: 50%;
+    background-color: aqua;
+}
